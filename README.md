@@ -37,3 +37,13 @@ pip3 install -r requirements.txt
 ```bash
 streamlit run news_generator.py
 ```
+
+## Screenshots
+
+### Initial page
+
+![Initial page](screenshots/initial.png)
+
+### After contents get generated
+
+![Final page](screenshots/after_generation.png)
